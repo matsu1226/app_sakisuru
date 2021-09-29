@@ -26,3 +26,4 @@ api/.byebug_history
 # Ignore master key for decrypting credentials and more.
 api/config/master.key
 api/db/mysql_data
+front/node_modules

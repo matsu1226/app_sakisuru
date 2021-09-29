@@ -4,5 +4,4 @@
 # DeviseTokenAuth::RegistrationsController =>
 # https://github.com/lynndylanhurley/devise_token_auth/blob/master/app/controllers/devise_token_auth/registrations_controller.rb
 class V1::Auth::RegistrationsController < DeviseTokenAuth::RegistrationsController
-
 end
